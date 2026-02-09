@@ -1,0 +1,19 @@
+public class Slowshuffle{
+ public static void main(String[]args){
+
+int r = 1+(int)(Math.random()*N);
+arr shuffled[];
+arr isNotPresent[];
+
+while int i = r {
+  if isNotPresent[r]{
+    i+=1;
+    shuffled[i] = r;
+    isNotPresent[r] = False;
+}
+    else{
+  r = int(random()*N) + 1;
+}
+}
+}
+}
