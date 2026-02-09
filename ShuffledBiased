@@ -1,0 +1,12 @@
+public class Biasedshuffle{
+ public static void main(String[]args){
+
+arr shuffled[]; 
+int r;
+
+
+for int i>=1,i<N, i++{
+shuffled[i]= i;
+}
+}
+}
